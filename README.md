@@ -66,6 +66,26 @@ The dataset contains 9,994 records and 22 columns, including order dates, custom
 - subcategory_profit_margin.png
 - segment_sales.png
 
+## Project Visualizations
+
+### Category Sales
+![Category Sales](category_sales.png)
+
+### Monthly Sales Trend
+![Monthly Sales Trend](monthly_sales_trend.png)
+
+### Quarterly Sales
+![Quarterly Sales](quarterly_sales.png)
+
+### Regional Sales
+![Regional Sales](region_sales.png)
+
+### Customer Segment Sales
+![Customer Segment Sales](segment_sales.png)
+
+### Subcategory Profit Margin
+![Subcategory Profit Margin](subcategory_profit_margin.png)
+
 ## Validation and Limitations
 
 - Dataset contains 9,994 records and 22 columns.
