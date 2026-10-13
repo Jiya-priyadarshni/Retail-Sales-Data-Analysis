@@ -96,3 +96,7 @@ The dataset contains 9,994 records and 22 columns, including order dates, custom
 
 ## Conclusion
 The analysis identifies key revenue drivers, regional differences, and loss-making product lines. These findings can help stakeholders improve pricing decisions, profitability monitoring, and sales planning.
+
+## Execution Screenshot
+
+![Sales Analysis Execution Screenshot](chart.png)
